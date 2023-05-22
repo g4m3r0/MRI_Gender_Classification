@@ -11,7 +11,7 @@ Was used to create the [T1w MRI Brain Slices Dataset](https://huggingface.co/dat
 
 # Gender_Classification.ipynb
 Contains an example implementation using Pytorch and Timm with a pre-trained resnet50 model.
-This simple model achieved an accuracy of over 99% on the validation set after 10 epochs of training.
+This simple model achieved an accuracy of over 99% on the test dataset after 10 epochs of training.
 
 Results after 10 Epochs of training:
 ```
